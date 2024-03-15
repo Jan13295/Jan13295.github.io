@@ -6,3 +6,4 @@ Status: **BROKEN**
 CLI Status: **BROKEN**
 GUI Status: **BROKEN**
 No Releases are yet published.
+We are also hosting *offline* pages in html.
