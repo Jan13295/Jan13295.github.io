@@ -1,0 +1,12 @@
+Uri: http://www.frogfind.com/
+File Name: C:\Downloaded Web Sites\www.frogfind.com\index.htm
+Content Type: text/html
+
+Uri: http://www.frogfind.com/about.php
+File Name: C:\Downloaded Web Sites\www.frogfind.com\about.php.html
+Content Type: text/html
+
+Uri: http://www.frogfind.com/img/frogfind.gif
+File Name: C:\Downloaded Web Sites\www.frogfind.com\img\frogfind.gif
+Content Type: image/gif
+
